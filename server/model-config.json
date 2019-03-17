@@ -39,9 +39,6 @@
   "Profil": {
     "dataSource": "mongo",
     "public": true
-  },
-  "ProfilTest": {
-    "dataSource": "mongo",
-    "public": true
   }
+  
 }
